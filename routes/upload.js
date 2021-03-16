@@ -1,5 +1,5 @@
 // const router = require("express").Router();
-const express = require('express');
+const express = require("express");
 const router = express.Router();
 const cloudinary = require("cloudinary");
 const auth = require("../middleWare/auth");
